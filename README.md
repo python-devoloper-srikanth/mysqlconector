@@ -1,0 +1,2 @@
+# mysqlconector
+mysql study
